@@ -1,10 +1,10 @@
 # Creacion de una aplicacion utilizando FastAPI y SQLlite:
   
-  *La aplicacion se basa en la administracion de tareas en formato lista, la cual utiliza una interfaz grafica (TKinter) para facilitar la interaccion con el usuario.
+    -La aplicacion se basa en la administracion de tareas en formato lista, la cual utiliza una interfaz grafica (TKinter) para facilitar la interaccion con el usuario.
   
-  *La aplicacion se ejecuta en un servidor locar, integrado en FastAPi 'Uvicorn'.
+    -La aplicacion se ejecuta en un servidor locar, integrado en FastAPi 'Uvicorn'.
   
-  *La interfaz interactua con FastApi y estas pide informacion a la base de datos SQLlite, con esta interaccion el ucuario puede: Crear, Actualizar, Ver y Eliminar las tareas.
+    -La interfaz interactua con FastApi y estas pide informacion a la base de datos SQLlite, con esta interaccion el ucuario puede: Crear, Actualizar, Ver y Eliminar las tareas.
 
 
 ## Requisitos para la utilizacion de la APP e Interfaz.
