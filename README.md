@@ -2,7 +2,7 @@
   
   La aplicacion se basa en la administracion de tareas en formato lista, la cual utiliza una interfaz grafica (TKinter) para facilitar la interaccion con el usuario.
   
-  La aplicacion se ejecuta en un servidor locar, integrado en FastAPi 'Uvicorn'.
+  La aplicacion se ejecuta en un servidor locar, integrado en FastAPI `Uvicorn`.
   
   Para poder realizar las acciones en la interfaz grafica tienes que iniciar secion, de lo contrario no dejara realizar dichas acciones. 
   
